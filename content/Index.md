@@ -15,7 +15,7 @@ no-update-date: true
 
 +++ { "kind": "split-image" }
 
-## The TUD starterkit for open publishing with JupyterBook
+## Henk is Jarig
 
 a quick setup for your open publishing project.
 
